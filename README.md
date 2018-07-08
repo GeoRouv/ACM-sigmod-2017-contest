@@ -23,4 +23,4 @@ An N-gram of words is a contiguous sequence of N words (https://en.wikipedia.org
 
 # Part 3:
 
-Both for static and Dynamic Tries implementation of paralleling using threads ( Thread Pool & Job Scheduler)
+Both for Static and Dynamic Tries implementation of paralleling using threads ( Thread Pool & Job Scheduler)

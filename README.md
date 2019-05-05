@@ -2,7 +2,9 @@
 
 Implementation done within the course of the subject "Software Development for Information Systems" during the winter of 2017-2018 by our team:
 
-**Panagiotis Kokkinakos** , **Georgios Rouvalis** , **Theodoros Stefou** 
+* **Panagiotis Kokkinakos** <br>
+* **Georgios Rouvalis** <br>
+* **Theodoros Stefou** <br>
 
 ## Summary:
 

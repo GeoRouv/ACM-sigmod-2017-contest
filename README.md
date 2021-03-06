@@ -1,4 +1,4 @@
-# ACM SIGMOD 2017 Contest
+# ACM-sigmod-2017-contest
 
 Implementation done within the course of the subject "Software Development for Information Systems" during the winter of 2017-2018 by our team:
 
